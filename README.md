@@ -36,6 +36,8 @@ Data-driven salary insights
 | Salary Distribution | Compensation spread across workforce |
 | Standard Deviation  | Salary variation analysis            |
 | Percentiles         | Compensation benchmarking            |
+
+
 Dashboard Insights
 Identified departments with highest average salaries
 Analyzed salary variation across employee groups
@@ -43,7 +45,8 @@ Compared median vs average compensation trends
 Evaluated salary distribution patterns using percentile analysis
 Dashboard Preview
 
-(Add dashboard screenshots here)
+<img width="1266" height="711" alt="Screenshot 2026-05-17 102613" src="https://github.com/user-attachments/assets/c94d88f4-bcdc-4ec3-8dd2-3c4b966ecdca" />
+
 
 Project Learning Outcomes
 
@@ -55,4 +58,3 @@ Data modeling
 Statistical analysis
 Business KPI reporting
 Interactive dashboard design
-https://1drv.ms/i/c/6b2db4143d98f7a3/IQCe0R5-OUDtT6GPEdCTwmQBAYqpffItKtz93kuRFAMt7YA?e=Mg96Lc
