@@ -58,3 +58,14 @@ Data modeling
 Statistical analysis
 Business KPI reporting
 Interactive dashboard design
+
+### Salary Distribution
+<img width="792" height="475" alt="Screenshot 2026-05-17 111334" src="https://github.com/user-attachments/assets/431e3e09-28a7-495e-9fd3-89d0435c106c" />
+
+
+### Statistical Analysis
+<img width="563" height="126" alt="Screenshot 2026-05-17 111308" src="https://github.com/user-attachments/assets/3768e5b9-8f21-4f30-909d-fd43ac7f8fa7" />
+
+
+### Interactive Filters
+<img width="408" height="184" alt="Screenshot 2026-05-17 111348" src="https://github.com/user-attachments/assets/0bf3c516-a963-4ecd-b8c7-d96f1aaa2394" />
