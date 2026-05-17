@@ -68,4 +68,5 @@ Interactive dashboard design
 
 
 ### Interactive Filters
-<img width="408" height="184" alt="Screenshot 2026-05-17 111348" src="https://github.com/user-attachments/assets/0bf3c516-a963-4ecd-b8c7-d96f1aaa2394" />
+<img width="419" height="191" alt="Screenshot 2026-05-17 114847" src="https://github.com/user-attachments/assets/53ed6dd2-80f2-4e15-8f9f-41b7c7643e10" />
+
